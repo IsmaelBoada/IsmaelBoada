@@ -36,9 +36,4 @@ Bienvenido a mi perfil de GitHub. Soy un desarrollador de software apasionado po
 <a href="https://wa.me/593998607003">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 
-
-
 ##
-
-
-> Gracias por visitar mi perfil. Si te interesa colaborar en algún proyecto o simplemente conectar, ¡estaré encantado de hablar contigo!
